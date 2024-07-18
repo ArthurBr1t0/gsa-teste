@@ -5,9 +5,6 @@ import { BannerSec } from "../BannerSec";
 export function Header() {
   return (
     <header>
-      <Banner />
-      <Empresas />
-      <BannerSec />
     </header>
   );
 }
